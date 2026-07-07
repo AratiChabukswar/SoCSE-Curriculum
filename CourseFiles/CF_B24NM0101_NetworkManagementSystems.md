@@ -126,23 +126,18 @@ Suggested in-class activities and exercises:
 
 ## 9. Evaluation scheme — dual-level
 
-- Assignment 1 (Unit I–II): SNMP queries, YANG mapping exercise, short report (individual) — 10 marks (awareness 6 / advanced 4).
-- Assignment 2 (Unit III–IV): Implement NETCONF/RESTCONF automation script + observability dashboard — 10 marks (awareness 6 / advanced 4).
-- Mini-project (group, 3–4 students): Build a small managed service: automated config via NETCONF/RESTCONF, alarm generation & correlation, and an observability dashboard. Project demo + report — 20 marks (project graded with awareness/advanced rubric).
+| Sl | Component | Marks | Weight % | Awareness marks | Advanced marks | Schedule | COs |
+|---|---|---|---|---|---|---|---|
+| 1 | IA-1 (Mid-test 1) | 20 | 20 | 14 | 6 | Week 8 | CO1, CO2, CO3 |
+| 2 | Assignment 1 | 10 | 10 | 6 | 4 | Week 6 | CO1, CO2 |
+| 3 | Assignment 2 | 10 | 10 | 6 | 4 | Week 14 | CO3, CO4, CO5 |
+| 4 | Mini-project design presentation | 10 | 10 | 6 | 4 | Week 16 | CO4, CO5, CO6 |
+| 5 | Class quizzes / in-class exercises | 10 | 10 | 10 | 0 | Throughout | CO1–CO4 |
+| 6 | Case-study reflection | 10 | 10 | 6 | 4 | Week 12 | CO4, CO5, CO6 |
+| 7 | SEE | 60 | 60 | 36 | 24 | SEE | CO1–CO6 |
+|   | **Total** | **100** | **100** | **84** | **16** | | |
 
-## 9. Evaluation scheme — dual-level
-
-Total: 100 marks (CIE 40 + SEE 60)
-
-- Continuous Internal Evaluation (CIE) — 40 marks
-  - IA-1 (Mid-test 1) — 20 marks (Awareness ≈14, Advanced ≈6)
-  - Assignments & Labs (combined) — 10 marks (Lab reports / assignment submissions) (Awareness 6 / Advanced 4)
-  - Mini-project / Quiz / Class participation — 10 marks
-
-- Semester End Exam (SEE) — 60 marks
-  - Theory paper covering Units I–IV with explicit Awareness vs Advanced questions; blueprint to include at least one advanced task per unit.
-
-Calibration note: Awareness/Advanced split is arranged so awareness-only mastery does not guarantee crossing the 8-CGPA threshold — faculty must confirm mapping with institute grade conversion table before finalizing.
+> **Awareness/advanced calibration:** awareness-only achievement is capped at 84%, which should be aligned with the institute's grade-point conversion to ensure that scoring above 8 CGPA requires the advanced component.
 
 ## 10. Session plan — summary (Merrill phases + level mapping)
 
@@ -182,7 +177,89 @@ This is a high-level session distribution (48 lecture sessions). Each lecture is
 
 Internal tests should mirror this split at reduced scale; include at least one advanced task in each IA.
 
-## 12. Learning resources
+## 12. Result analysis and dual-level health checks
+
+| Exam | < 40% (below floor — remediate) | 40–75% (floor cleared, awareness-solid) | > 75% (advanced attained) |
+|---|---|---|---|
+| IA-1 | | | |
+| Assignment 1 | | | |
+| Assignment 2 | | | |
+| Case-study reflection | | | |
+| Mini-project presentation | | | |
+| SEE | | | |
+
+## 13. Learner support tracking
+
+### 13.1 Students below the floor (per IA) — remediation
+
+| Sl | SRN | Name | IA | Gap identified | Remedial action | Re-assessment result |
+|---|---|---|---|---|---|---|
+
+### 13.2 Students reaching for the ceiling — enrichment
+
+| Sl | SRN | Name | Advanced task assigned | Outcome |
+|---|---|---|---|---|
+
+| | No. of students | Action taken |
+|---|---|---|
+| Below floor (slow learners) | | |
+| At ceiling (fast learners) | | |
+
+## 14. Track-advice signal
+
+| Field | Entry |
+|---|---|
+| Is this a prerequisite for a SIG track? | No — but strong students can be guided toward Network/Cloud SIGs |
+| % of students at advanced level (> 75% / 8+ CGPA) | ‹…› |
+| Domains where advanced performance clustered | SDN management, observability, automation |
+| Recommended note to academic mentors | Students strong in CO4–CO6 are good candidates for Network/Cloud/Security SIGs. |
+
+## 15. CO attainment
+
+**Set target:** 60
+
+| CO | IA1 | Assignment 1 | Assignment 2 | Case study | Mini-project | SEE | Direct attainment | Level (A/Adv) |
+|---|---|---|---|---|---|---|---|---|
+| CO1 | | | | | | | | A |
+| CO2 | | | | | | | | A |
+| CO3 | | | | | | | | Both |
+| CO4 | | | | | | | | Adv |
+| CO5 | | | | | | | | Adv |
+| CO6 | | | | | | | | Adv |
+
+## 16. CO–PO/PSO mapping & overall attainment
+
+Use the repository template tables to report overall attainment. Ensure direct CO assessment covers both awareness and advanced levels separately.
+
+## 17. Course completion summary
+
+| Unit | Planned date | Completion date | Remarks |
+|---|---|---|---|
+| 1 | | | |
+| 2 | | | |
+| 3 | | | |
+| 4 | | | |
+
+## 18. Faculty reflection — dual-level health check
+
+- Did the awareness floor genuinely protect placement-readiness for the weakest students? ‹…›
+- Was the advanced ceiling reached by roughly the expected share, or did it collapse / go unassessed? ‹…›
+- One change to the awareness/advanced split for next offering: ‹…›
+
+## 19. Implementation strategy — Merrill's First Principles
+
+The course uses Merrill's five phases in lecture-based activities: Problem-centred anchoring, Activation through lecture + demonstration, Demonstration of protocol operations, Application through exercises and case studies, and Integration via the mini-project design.
+
+### 19.1 Phase-coverage check
+
+| Check | Entry |
+|---|---|
+| All five Merrill phases used at least once per unit | Yes |
+| Sessions using Activation = lecture + demonstration | S3–S4, S15–S17, S25–S27, S35–S37 |
+| Sessions delivering Advanced-level activities | S9, S10–S12, S20–S24, S41–S48 |
+| ✅ Ceiling taught (≥1 Adv activity per unit, not only assessed) | Yes |
+
+## 20. Learning resources
 
 ### Textbooks
 - Mani Subramanian, Network Management, 2010
