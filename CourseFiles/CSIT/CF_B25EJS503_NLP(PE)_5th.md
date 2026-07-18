@@ -1,3 +1,5 @@
+Faculty Name: Prof. Arati C (REVA02787), Assitant Professor, CSE -G3.
+
 # SEMESTER – V
 
 # SYLLABUS
@@ -16,7 +18,7 @@
 | Tutorial | - | - | - | - |
 | **Total** | **3** | **3** | **3** | **3** |
 
-**Total Number of Classes Per Semester:** 32
+**Total Number of Classes Per Semester:** 40
 
 **Assessment Weightage**
 
@@ -31,16 +33,17 @@
 
 The intent of the course is to give introduction to Natural Language Processing (NLP, a.k.a. computational linguistics), the study of computing systems that can process, understand, or communicate in human language. The primary focus of the course will be on understanding various NLP tasks as listed in the course syllabus, algorithms for effectively solving these problems, and methods for evaluating their performance. There will be a focus on statistical algorithms to acquire the knowledge needed to perform language processing.
 
----
+# PREREQUISITES:
+- Basic knowledge of Python programming and programming fundamentals.
+- Fundamentals of probability, statistics, and linear algebra.
+- Basic concepts of machine learning and model evaluation.
+- Familiarity with Python libraries such as NumPy, Pandas, and NLTK is desirable.
 
 # COURSE OBJECTIVE(S)
-
 1. Explain the fundamentals of natural language processing and python.
 2. Discuss how to access the text corpora.
 3. Implement tagging, categorization, and evaluate classifier performance.
 4. Use modern NLP tools to build solutions for complex language processing applications.
-
----
 
 # COURSE OUTCOMES (COs)
 
