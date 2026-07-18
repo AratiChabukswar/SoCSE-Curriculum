@@ -4,7 +4,7 @@ Faculty Name: Prof. Arati C (REVA02787), Assitant Professor, CSE -G3.
 
 # SYLLABUS
 
-| Course Title | Natural Language Processing (PE) | Course Type | Theory |
+| Course Title | Natural Language Processing (Professional Elective) | Course Type | Theory |
 |--------------|----------------------------------|-------------|--------|
 | Course Code | B25EJS503 | Credits | 3 |
 | Class | V Semester | | |
